@@ -3,7 +3,10 @@
 #### papernotes
 https://github.com/xwzhong/papernote
 
+#### SNLI
 https://nlp.stanford.edu/projects/snli/  
+
+#### SQUAD
 https://rajpurkar.github.io/SQuAD-explorer/
 
 #### State-of-the-art result for all Machine Learning Problems  
