@@ -1,5 +1,8 @@
 # SOTA-NLP_Tasks
 
+#### papernotes
+https://github.com/xwzhong/papernote
+
 https://nlp.stanford.edu/projects/snli/  
 https://rajpurkar.github.io/SQuAD-explorer/
 
