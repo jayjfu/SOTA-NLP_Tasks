@@ -1,5 +1,8 @@
 # SOTA-NLP_Tasks
 
+#### English NLP SOTA
+https://github.com/magizbox/underthesea/wiki/English-NLP-Tools  
+
 #### papernotes
 https://github.com/xwzhong/papernote
 
