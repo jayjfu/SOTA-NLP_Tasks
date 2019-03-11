@@ -1,4 +1,8 @@
 # SOTA-NLP_Tasks
+
+#### CoQA
+https://stanfordnlp.github.io/coqa/  
+
 #### paperswithcode/sota
 https://paperswithcode.com/sota  
 
