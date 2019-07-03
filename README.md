@@ -1,7 +1,7 @@
 # SOTA-NLP_Tasks
 
 #### NLP-progress
-- https://nlpprogress.com/
+- https://nlpprogress.com/ or https://github.com/sebastianruder/NLP-progress  
 
 #### gluebenchmark
 - https://gluebenchmark.com/leaderboard
