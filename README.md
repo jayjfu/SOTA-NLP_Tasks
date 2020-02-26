@@ -1,5 +1,7 @@
 # SOTA-NLP_Tasks
 
+- https://www.jiqizhixin.com/sota
+
 #### NLP-progress
 - https://nlpprogress.com/ or https://github.com/sebastianruder/NLP-progress  
 
