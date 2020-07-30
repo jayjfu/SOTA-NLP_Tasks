@@ -1,5 +1,8 @@
 # SOTA-NLP_Tasks
 
+#### paperswithcode/sota (repeated)
+https://paperswithcode.com/sota, include LTR/Collaborative Ranking/Graph Ranking
+
 - https://www.jiqizhixin.com/sota
 
 #### NLP-progress
