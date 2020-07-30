@@ -3,6 +3,7 @@
 #### paperswithcode/sota (repeated)
 https://paperswithcode.com/sota, include LTR/Collaborative Ranking/Graph Ranking
 
+#### others
 - https://www.jiqizhixin.com/sota
 
 #### NLP-progress
