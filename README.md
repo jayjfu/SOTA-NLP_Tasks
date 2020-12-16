@@ -1,4 +1,4 @@
-# SOTA-NLP_Tasks
+# SOTA_DeepLearning
 
 #### Search
 TREC 2020(Microsoft): https://microsoft.github.io/TREC-2020-Deep-Learning/  
