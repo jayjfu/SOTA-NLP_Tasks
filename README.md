@@ -1,5 +1,7 @@
 # SOTA_DeepLearning
 
+https://farid.one/kaggle-solutions/  
+
 TODO: 1.Task+2.Datasets+3.Metrics  
 
 
